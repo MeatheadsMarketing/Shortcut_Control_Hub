@@ -1,0 +1,5 @@
+Shortcut,Name,Purpose
+#A,System Enhancement Mode,"Apply patches, fill gaps, generate missing files, and upgrade assistant performance automatically."
+#V,Validation Mode,"Scan file/folder structure, confirm integrity, detect missing logic, and validate output accuracy."
+#M,Manipulation Surplus Mode,Rephrases vague GPT input into elite prompt format and execution chain.
+#X,Execute + Expand Mode,Run GPT’s own recommendations and inject synergistic upgrades as it proceeds.
